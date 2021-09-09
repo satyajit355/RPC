@@ -26,7 +26,7 @@ rpc.getRpcImage(config.applicationid, config.imagename).then(large => {
     
 })
 
-console.log(chalk.hex("#800080")("lag gya rpc tumhara "))
+console.log(chalk.hex("#800080")("abh subscribe kardo"))
 }
 
 
