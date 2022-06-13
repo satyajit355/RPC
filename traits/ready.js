@@ -9,7 +9,7 @@ rpc.getRpcImage(config.applicationid, config.imagename).then(large => {
       
           let presence = new rpc.Rpc()
              .setName(config.name)
-              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setUrl('https://satyajitop.xyz/')
               .setType("STREAMING")
               .setApplicationId(config.applicationid)
             
@@ -26,7 +26,7 @@ rpc.getRpcImage(config.applicationid, config.imagename).then(large => {
     
 })
 
-console.log(chalk.hex("#800080")("abh subscribe kardo"))
+console.log(chalk.hex("#800080")("LOVE FROM SATYAJIT"))
 }
 
 
